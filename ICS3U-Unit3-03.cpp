@@ -2,7 +2,8 @@
 
 // Created by : Emmanuel
 // Created on : Oct 2022
-// This program is a number guessing game using an else statement
+// This program is a number guessing game 
+// Using  if, then and else statements.
 
 #include <iostream>
 #include <random>
